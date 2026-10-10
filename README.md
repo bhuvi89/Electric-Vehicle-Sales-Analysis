@@ -2,9 +2,9 @@
 # 📝 Project Overview
 This project focuses on analyzing the Electric Vehicle (EV) market in India as part of AtliQ Motors' expansion plans. With a current market share of less than 2% in India, AtliQ Motors is looking to scale up their EV offerings. The objective of this analysis is to study the existing market trends and provide actionable insights to help AtliQ Motors make informed decisions for their upcoming EV launches.
 
-**🔗 Dashboard Link:** https://shorturl.at/xT1BG
+**🔗 Dashboard Link:** https://lnkd.in/gGeUxBTV
 
-**Video Presentation Link:**  https://shorturl.at/XefY9
+**Video Presentation Link:**  https://lnkd.in/gbQSs75j
 
 # 📊 Datasets
 Three datasets were used in this analysis:
