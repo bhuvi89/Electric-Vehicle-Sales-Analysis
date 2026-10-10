@@ -4,7 +4,7 @@ This project focuses on analyzing the Electric Vehicle (EV) market in India as p
 
 **🔗 Dashboard Link:** https://tinyurl.com/26944ed3
 
-**Video Presentation Link:**  https://lnkd.in/gbQSs75j
+**Video Presentation Link:**  https://tinyurl.com/ya445j3v
 
 # 📊 Datasets
 Three datasets were used in this analysis:
